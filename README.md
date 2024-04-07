@@ -17,3 +17,4 @@ This project was created using `bun init` in bun v1.1.2. [Bun](https://bun.sh) i
 ## TODO
 
 - Create interface task
+- Create a simple README
